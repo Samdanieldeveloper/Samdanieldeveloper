@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Samdanieldeveloper
-- 👀 I’m interested in ... Development of the world
+- 👀 I’m interested in ... Development
 - 🌱 I’m currently learning ... Computer
-- 💞️ I’m looking to collaborate on ... Intellects
+- 💞️ I’m looking to collaborate on ... Every curious persons 
 - 📫 How to reach me ... LinkedIn, gitHub
 
 <!---
